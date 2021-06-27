@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Ayelen Lafonte** Larry Plotter fan
+**Ayelen Lafonte**, git fun
+
