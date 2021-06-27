@@ -7,3 +7,5 @@
 *Larry Plotter y La Orden de Uni
 *Larry Plotter y El Misterio del Hacker
 *Larry Plotter y Los Commits de la Muerte
+
+** Ayelen Lafonte
